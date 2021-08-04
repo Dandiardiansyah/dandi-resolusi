@@ -1,2 +1,2 @@
 # dandi-resolusi
-repositiori untuk menyimpan kegiatan dandi
+repositoryuntuk menyimpan kegiatan dandi
