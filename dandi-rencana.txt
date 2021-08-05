@@ -1,4 +1,5 @@
 rencana dandi kedepan nya
-- kuliah dengan benar
+- kuliah dengan benar 
++ harus bisa backend dev
 - belajar dengan baik
 - main
