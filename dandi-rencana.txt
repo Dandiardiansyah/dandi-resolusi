@@ -1,8 +1,10 @@
 rencana dandi kedepan nya
 - kuliah dengan benar 
 + harus bisa backend dev
-  * amular
-  * react
+  *js 
+  *react
 + bisa kerja 
 - belajar dengan baik
--phyton
+- main
+- phyton
+
